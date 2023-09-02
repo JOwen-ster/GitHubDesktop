@@ -11,6 +11,15 @@ In this guide, you will learn to…
 
 ## Before Anything
 
-> Download GitHub desktop with the [link provided](https://desktop.github.com/).
-> 
+> Download GitHub desktop with the [link provided](https://desktop.github.com/)
 > Login to GitHub Desktop with your [GitHub Account](https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fjoin&source=login) that you created.
+
+## Adding Code to GitHub
+Go to your GitHub profile by clicking the icon in the top right and selecting “Your Profile”.
+
+On the top left task bar, click “Repositories”.
+
+In the top right, click new and then type the repository name you want, select “🔒Private”, then select “add a README file” and create.
+
+Finally, click “add file” near the top right then select “upload files”.
+
