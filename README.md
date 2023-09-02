@@ -21,5 +21,14 @@ On the top left task bar, click “Repositories”.
 
 In the top right, click new and then type the repository name you want, select “🔒Private”, then select “add a README file” and create.
 
-Finally, click “add file” near the top right then select “upload files”.
+Finally, click “add file” near the top right then select “upload files” and select the file(s) or folder(s) you want to be stored on GitHub.
+
+## Access Code From Any Device Using GitHub Desktop
+Open GitHub Desktop
+
+Click the first option that says “Open In (Whatever You Use To Edit Code)” and then code away!
+
+## Update Your Code on GitHub from GitHub Desktop
+
+
 
