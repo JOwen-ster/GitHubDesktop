@@ -67,4 +67,9 @@ If you have never cloned anything to your computer using GitHub Desktop, then yo
 On GitHub Desktop, in the top of your screen click on “Fetch origin” which takes the most recent changes on GitHub and puts that on your computer.
 > [!Warning]
 > If you have made **ANY CHANGES** to a reposity, you will have stash those changes away or submit them to be able to fetch from GitHub
+
+***YOU ALWAYS WANT TO FETCH ORIGIN TO MAKE SURE WHAT EVER CODE YOU WILL BE WORKING ON IS THE MOST RECENT VERSION***
+
+***YOU SHOULD BE PUSHING YOUR WORK TO GITHUB FREQUENTLY AND ALWAYS PUSH RIGHT BEFORE YOU ARE DONE WORKING FOR THE DAY***
+
 # Thank you for reading be free to ask any questions
