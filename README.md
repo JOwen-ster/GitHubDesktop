@@ -21,6 +21,8 @@ Open GitHub Desktop.
 
 Click on `Create a New Repository on your local drive...`
 
+![alt text](./assets/image1.png)
+
 In the first text input field, give your repository a name.
 
 > [!Note]
@@ -37,7 +39,15 @@ Under the `License` dropdown, select `MIT License`.
 
 Click on `Create repository`.
 
+![alt text](./assets/image2.png)
+![alt text](./assets/image3.png)
+
+If you want your code to be public so anyone can see it uncheck `Keep this code Private`
+
 Click on `Publish repository` and then once more.
+
+![alt text](./assets/image4.png)
+![alt text](./assets/image5.png)
 
 ## Start Coding
 
@@ -56,13 +66,20 @@ You can add a description to be more specific but this field unlike the previous
 
 Click `Commit to main` then in the middle of the screen `Push origin`.
 
+![alt text](./assets/image6.png)
+![alt text](./assets/image7.png)
+
 ##  Retrieve Your Most Recent Changes That Were Submitted To GitHub
 
 If this is your first time retrieving a certain repositry from GitHub (meaning if you click the name of the current repository you are working on and it is not listed, **then select `Add` -> `Clone repository...`**
 
 Select the repository that is stored on GitHub that you want to copy/clone to your computer and then click `Clone`.
 
+![alt text](./assets/image8.png)
+
 If you have never cloned anything to your computer using GitHub Desktop, then you can just click `Clone a repository from the internet...`
+
+![alt text](./assets/image1.png)
 
 On GitHub Desktop, in the top of your screen click on “Fetch origin” which takes the most recent changes on GitHub and puts that on your computer.
 > [!Warning]
